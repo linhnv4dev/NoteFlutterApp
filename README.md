@@ -1,4 +1,4 @@
-# 📝 Note App - Flutter
+# 📝 Lab 5: Note App - Flutter
 
 Một ứng dụng ghi chú đơn giản được xây dựng bằng **Flutter** với **Provider State Management**, cho phép người dùng tạo, chỉnh sửa và xóa ghi chú một cách dễ dàng.
 
